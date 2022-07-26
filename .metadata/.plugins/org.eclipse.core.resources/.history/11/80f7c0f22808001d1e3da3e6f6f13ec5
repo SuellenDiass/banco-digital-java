@@ -1,0 +1,23 @@
+package br.com.dio.model;
+
+
+
+public class PrimeiroPrograma {
+
+	public static void main(String[] args) {
+// criar um objeto sem importar criar uma classe fora do bloco
+		Gato gato = new Gato();
+		
+		/*int a = 2;
+		int b = 3;
+		// TODO Auto-generated method stub
+		System.out.println("Hello world "  + (a+b));*/
+	
+	}
+}
+class Gato{
+	private String name;
+	private String cor;
+}
+
+

@@ -1,0 +1,17 @@
+// Classe ContaCorrente herda da classe Conta
+// static int SEQUENCIAL tem relação classe contaCorrente
+// imprimirInfosComuns somente os filhos terão acesso
+
+public class ContaCorrente extends Conta {
+
+	@Override
+	public void imprimirExtrato() {
+		System.out.println("=== Extrato Conta Corrente ===");
+		super.imprimirInfosComuns();
+
+
+	}
+
+	
+
+}

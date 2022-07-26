@@ -1,0 +1,4 @@
+// Classe ContaPoupanca herda da classe Conta
+public class ContaPoupanca extends Conta {
+	
+}

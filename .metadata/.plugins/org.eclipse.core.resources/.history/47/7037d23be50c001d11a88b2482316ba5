@@ -1,0 +1,4 @@
+// Classe ContaCorrente herda da classe Conta
+public class ContaCorrente extends Conta {
+
+}

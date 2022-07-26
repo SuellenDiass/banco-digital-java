@@ -1,0 +1,15 @@
+// classe interface é uma classe abstrata com todos metodos abstratos
+// todo metoda da interface é publico
+
+public interface IConta {
+
+	 void sacar(double valor);
+		
+	
+	 void depositar(double valor);
+		
+	
+	
+	 void transferir(double valor, Conta contaDestino);
+		
+}

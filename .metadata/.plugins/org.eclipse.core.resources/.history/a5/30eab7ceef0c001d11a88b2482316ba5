@@ -1,0 +1,13 @@
+// Classe ContaCorrente herda da classe Conta
+// static int SEQUENCIAL tem relação classe contaCorrente
+
+public class ContaCorrente extends Conta {
+	
+	//private static  int SEQUENCIAL = 1;
+
+	//public ContaCorrente() {
+		//super.agencia = Conta.AGENCIA_PADRAO;
+		//super.numero = SEQUENCIAL ++;
+	//}
+
+}
