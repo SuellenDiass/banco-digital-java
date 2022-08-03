@@ -1,5 +1,7 @@
-   ![Pequeno projeto em java](https://octodex.github.com/images/femalecodertocat.png)
-  
+<p align="center">
+ <img src="https://octodex.github.com/images/femalecodertocat.png" width="300" height="300">
+</p>
+
 
 
 ### _Criando um projeto de um banco digital com Java e orientação a objetos._ 
